@@ -1,0 +1,23 @@
+{
+  "name": "js-quine",
+  "version": "0.0.1",
+  "description": "Quine implementation in node.js a program which prints itself",
+  "main": "quine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklabh/js-quine.git"
+  },
+  "keywords": [
+    "repl",
+    "js"
+  ],
+  "author": "Nikhil Ranjan @niklabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niklabh/js-quine/issues"
+  },
+  "homepage": "https://github.com/niklabh/js-quine#readme"
+}
